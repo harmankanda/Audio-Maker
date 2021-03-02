@@ -38,6 +38,7 @@ body
 }
 
 audio {
+    margin-left: 11px;
     width: 300px;
     height: 54px;
 }
